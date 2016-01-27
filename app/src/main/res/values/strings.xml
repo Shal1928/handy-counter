@@ -5,5 +5,5 @@
     <string name="new_counter">Новый счетчик</string>
     <string name="new_counter_hint">Название</string>
     <string name="Create_button">Создать</string>
-    <!--<color name="new_counter_label">Название счетчика</color>-->
+    <string name="defualt_counter_name">Новый счетчик</string>
 </resources>

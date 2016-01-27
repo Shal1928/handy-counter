@@ -18,5 +18,6 @@
         </activity>
     </application>
 
-    <uses-sdk android:targetSdkVersion="19" />
+    <uses-sdk android:targetSdkVersion="19"
+              android:minSdkVersion="14" />
 </manifest>
