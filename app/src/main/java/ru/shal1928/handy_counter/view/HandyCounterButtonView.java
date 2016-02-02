@@ -1,4 +1,4 @@
-package ru.shal1928.handy_counter.widgets;
+package ru.shal1928.handy_counter.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;

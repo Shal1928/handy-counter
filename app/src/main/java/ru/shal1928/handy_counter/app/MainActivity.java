@@ -57,6 +57,10 @@ public class MainActivity extends AppCompatActivity {
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
 
+//            FragmentCustomerBinding binding = DataBindingUtil.bind(view);
+//            viewModel.init(this, customerId);
+//            binding.setViewModel(viewModel);
+
             rootView.setOnTouchListener(new SwipeListener(getActivity()) {
                 @Override
                 public void onSwipeTop() {
